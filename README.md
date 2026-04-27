@@ -1,27 +1,46 @@
-# Sales Dashboard (Excel Project)
+# 📊 Sales Dashboard (Excel Project)
 
-## 📊 Overview
-This project focuses on analyzing sales data to identify trends, improve decision-making, and track business performance.
+## 🔍 Overview
+
+This project focuses on analyzing sales data using Excel to identify trends, track performance, and support business decision-making.
 
 ## 🎯 Objective
-To transform raw sales data into meaningful insights using Excel dashboards.
+
+To convert raw sales data into meaningful insights through dashboards and visualizations.
 
 ## 🛠 Tools Used
-- Microsoft Excel
-- Pivot Tables
-- Charts & Graphs
+
+* Microsoft Excel
+* Pivot Tables
+* Charts & Graphs
+* Data Cleaning
+
+## 📁 Dataset
+
+The dataset includes:
+
+* Order Date
+* Region
+* Product Category
+* Sales
+* Profit
 
 ## 📈 Key Insights
-- Identified top-performing products and categories
-- Analyzed monthly sales trends
-- Compared regional sales performance
-- Highlighted profit vs loss areas
+
+* Highest sales observed in **(your actual top category)**
+* **(Region name)** generated maximum revenue
+* Sales showed growth trend in **(month/period)**
+* Some categories resulted in **low or negative profit**
 
 ## 🖼 Dashboard Preview
-(Add your screenshot here)
 
-## 📂 Files
-- sales_dashboard.xlsx
+![Dashboard](dashboard.png)
 
-## 🚀 Outcome
-This project demonstrates my ability to clean data, analyze it, and present actionable insights using Excel.
+## 📂 Files Included
+
+* sales_dashboard.xlsx
+* dashboard.png
+
+## 🚀 Conclusion
+
+This project demonstrates my ability to analyze data, create dashboards, and generate insights for business decision-making.
